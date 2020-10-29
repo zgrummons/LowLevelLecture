@@ -1,6 +1,6 @@
 ﻿using Lamar;
 using Serilog;
-using Serilog.Core;
+using SmallestInteger.Algorithms;
 
 namespace SmallestInteger
 {
