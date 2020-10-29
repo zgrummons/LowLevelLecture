@@ -5,6 +5,6 @@ namespace TestBench.Algorithms
 {
     public class LinqAlgorithm : IAlgorithm
     {
-        public int Solution(int[] inputs) => inputs.Min();
+        public int FindSmallestInteger(int[] inputs) => inputs.Min();
     }
 }
