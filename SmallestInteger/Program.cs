@@ -2,7 +2,7 @@
 using Serilog;
 using Serilog.Core;
 
-namespace IntegerSwap
+namespace SmallestInteger
 {
     class Program
     {

@@ -1,8 +1,9 @@
 ﻿using Lamar;
 using Serilog;
 using Serilog.Core;
+using StringReversal.Algorithms;
 
-namespace IntegerSwap
+namespace StringReversal
 {
     class Program
     {
