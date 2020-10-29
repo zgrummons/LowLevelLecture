@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace IntegerSwap.Algorithms
+﻿namespace IntegerSwap.Algorithms
 {
-    interface IAlgorithm
+    internal interface IAlgorithm
     {
+        (int, int) SwapIntegers(int a, int b);
     }
 }
