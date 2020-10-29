@@ -2,6 +2,6 @@
 {
     internal interface IAlgorithm
     {
-        int Solution(int[] inputs);
+        int FindSmallestInteger(int[] inputs);
     }
 }

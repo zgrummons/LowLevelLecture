@@ -4,7 +4,7 @@ namespace TestBench.Algorithms
 {
     public class SimpleO1Algorithm : IAlgorithm
     {
-        public int Solution(int[] inputs)
+        public int FindSmallestInteger(int[] inputs)
         {
             var result = int.MaxValue;
             foreach (var input in inputs)
