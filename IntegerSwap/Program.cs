@@ -1,7 +1,6 @@
 ﻿using IntegerSwap.Algorithms;
 using Lamar;
 using Serilog;
-using Serilog.Core;
 
 namespace IntegerSwap
 {
