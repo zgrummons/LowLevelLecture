@@ -4,7 +4,8 @@ using System.Text;
 
 namespace StringReversal.Algorithms
 {
-    interface IAlgorithm
+    internal interface IAlgorithm
     {
+        string ReverseString(string input);
     }
 }
