@@ -4,7 +4,7 @@
 This solution was created to demostrate compiler behavior and delve into bytecode to see what's happening under the hood
 
 ### Integer Swap
-This project exhibits different ways to swap integers
+This project exhibits different ways to swap integers, e.g. utilizing a temporary variable or using arithmetic to mathematically swap
 
 ### Smallest Integer
 This project exhibits different ways to find the smallest integer in an array and works with best cases and worst cases
