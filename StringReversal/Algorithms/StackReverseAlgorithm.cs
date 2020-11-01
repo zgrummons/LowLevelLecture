@@ -4,7 +4,7 @@ using System.Text;
 
 namespace StringReversal.Algorithms
 {
-    class StackReverseAlgorithm : IAlgorithm
+    public class StackReverseAlgorithm : IAlgorithm
     {
         public string ReverseString(string input)
         {
